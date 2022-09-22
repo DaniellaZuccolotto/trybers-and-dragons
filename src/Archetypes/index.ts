@@ -1,3 +1,3 @@
-import Archetypes from './Archetypes';
+import Archetype from './Archetype';
 
-export default Archetypes;
+export default Archetype;
